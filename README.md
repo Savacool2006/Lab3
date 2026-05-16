@@ -9,7 +9,7 @@
 <img width="638" height="383" alt="image" src="https://github.com/user-attachments/assets/40d211c7-6bb3-46ad-9fd8-c8dc758c09ac" />
 
 #4.Посмотрел список образов
-<img width="493" height="88" alt="image" src="https://github.com/user-attachments/assets/5be0844d-a239-4146-9384-fa7d52d39027" />
+<img width="914" height="136" alt="image" src="https://github.com/user-attachments/assets/0af3716d-b205-4f01-88bb-a98f5422fa41" />
 
 #5.Посмотрел список всех контейнеров
 <img width="521" height="32" alt="image" src="https://github.com/user-attachments/assets/244a2f6c-a67c-478e-a69f-3de63c331ba7" />
