@@ -5,7 +5,7 @@
 
 #2.Залогинился в hub.docker
 
-<img width="648" height="100" alt="image" src="https://github.com/user-attachments/assets/71a3b61f-2c04-4607-80d7-51114a2f7d5f" />
+<img width="1803" height="300" alt="image" src="https://github.com/user-attachments/assets/0bd74dfb-76e4-4191-ab7f-252f1583ab06" />
 
 #3.Нашёл всё, что содержит слово debian в репозитории hub.docker
 
